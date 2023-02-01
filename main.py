@@ -39,18 +39,18 @@ def analysis_one(book_list):
 
 
 def analysis_two(book_list):
-    print("Analysis of which genre (fiction or non-fiction) has appeared the most in the top 50's list")
+    print("Analysis of which genre (fiction or non-fiction) has appeared the most in the book list")
 
 
 def analysis_three(book_list):
-    print("Analysis of which book has appeared the most in the top 50's list, and how many times it has appeared")
+    print("Analysis of which book has appeared the most in the book list, and how many times it has appeared")
 
 
 # BONUS USER STORIES:
 
 
 def bonus_analysis_one(book_list):
-    print("Analysis of which author has shown up on the top 50's list the most (Distinct books only!)")
+    print("Analysis of which author has shown up on the book list the most (Distinct books only!)")
 
 
 def bonus_analysis_two(book_list):
@@ -58,7 +58,7 @@ def bonus_analysis_two(book_list):
 
 
 def bonus_analysis_three(book_list):
-    print("Analysis of which book has appeared the most consecutively on top 50's list")
+    print("Analysis of which book has appeared the most consecutively on the book list")
 
 
 run_analysis(data_list)
